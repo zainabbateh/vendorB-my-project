@@ -1,0 +1,3 @@
+HEAD upstream  cherry-picked 
+HEAD vendorA  cherry-picked 
+HEAD vendorB  cherry-picked+reverted 
